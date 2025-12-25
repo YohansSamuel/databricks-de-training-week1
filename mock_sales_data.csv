@@ -1,0 +1,21 @@
+TransactionID,TransactionDate,CustomerID,Product,ProductCategory,Quantity,SaleAmount,PaymentMethod,StoreLocation
+TID001,2023-01-15 10:30:00,CUST085,Laptop Pro,Electronics,1,1200.00,Credit Card,Online
+TID002,2023-01-15 11:05:00,CUST102,Wireless Mouse,Electronics,2,50.00,PayPal,Online
+TID003,2023-01-16 14:20:00,CUST085,Office Chair,Furniture,1,150.00,Credit Card,Online
+TID004,2023-01-17 09:00:00,CUST210,Coffee Maker,Appliances,1,75.50,Debit Card,New York
+TID005,2023-01-17 16:45:00,CUST102,Book "Data Science Intro",Books,3,90.00,PayPal,Online
+TID006,2023-01-18 10:00:00,CUST301,Smartphone X,Electronics,1,800.00,,Online
+TID007,2023-01-19 12:12:00,CUST007,External Hard Drive,Electronics,1,120.00,Credit Card,Online
+TID008,2023-01-20 13:15:00,CUST085,Desk Lamp,Furniture,1,45.00,Credit Card,Online
+TID009,2023-01-21 10:05:00,CUST210,Toaster,Appliances,1,30.00,Debit Card,New York
+TID010,2023-01-22 11:30:00,CUST102,Book "Advanced Python",Books,1,55.00,PayPal,Online
+TID011,2023-01-23 15:00:00,CUST450,Gaming Keyboard,Electronics,1,130.00,Credit Card,Online
+TID012,2023-01-24 09:45:00,CUST085,Bookshelf,Furniture,1,220.00,,Online
+TID013,2023-01-25 17:00:00,CUST301,Smart Watch,Electronics,1,250.00,PayPal,Online
+TID014,2023-01-26 10:20:00,CUST210,Blender,Appliances,1,60.75,Debit Card,New York
+TID015,2023-01-27 11:50:00,CUST102,Book "Learning Spark",Books,2,80.00,Credit Card,Online
+TID016,2023-01-28 14:30:00,CUST007,Monitor,Electronics,1,300.00,Credit Card,Online
+TID017,2023-01-29 09:15:00,CUST450,Ergonomic Mouse,Electronics,1,65.00,PayPal,Online
+TID018,2023-01-30 16:00:00,CUST085,Filing Cabinet,Furniture,1,180.00,Credit Card,Online
+TID019,2023-01-31 10:00:00,CUST301,Headphones,Electronics,1,99.99,Debit Card,Online
+TID020,2023-02-01 12:00:00,CUST210,Air Fryer,Appliances,1,110.00,Credit Card,New York
